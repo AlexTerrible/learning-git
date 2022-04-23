@@ -1,1 +1,1 @@
-print("hiszpańska inkwizycja")
+print("hiszpańska inkwizycja - test")
